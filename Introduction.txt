@@ -1,7 +1,0 @@
-Introduction
-Mr. Silva plans to go on vacation to Lisbon next summer, and he plans to plan everything in advance! 
-He loves to visit cultural spaces such as: monuments, theaters, museums, etc ...
-Mr. Silva has a few days of vacation, so he wants to avoid wasting a lot of time traveling from one place to another.
-
-Problem
-Mr Silva wants to find the ideal place to stay, so he can visit the best places of entertainment, minimizing travel time
