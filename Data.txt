@@ -1,5 +1,0 @@
-For this project we need the following data:
-- The top 10 Lisbon Hotels from Booking, with the lat, long
-- Fousquare API : "https://developer.foursquare.com/" with the entertainment spots, ranked and with the category
-
-I will use  the explore function to get the entertainment venues in a radio of 500meters of each hotel, and then use this feature to group them into clusters, usign the K-means clustering in order to find what is the best hotel to get access to the best entertainment, minimizing travel
